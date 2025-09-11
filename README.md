@@ -1,24 +1,3 @@
-<!-- <img src="images/banner.jpg"/> -->
-
-<h1 align="center">
-  <a href="https://github.com/moh123mos">
-    <img 
-      src="https://github.com/moh123mos.png" 
-      width="250" 
-      alt="moh123mos"
-      style="
-        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
-        border: 2px solid #ccc;
-        border-radius: 16px;
-        transition: transform 0.3s ease;
-      "
-      onmouseover="this.style.transform='scale(1.05)';" 
-      onmouseout="this.style.transform='scale(1)';"
-    />
-  </a>
-</h1>
-
-
 <h3 align="center">Frontend Developer | Vue & Nuxt Specialist | ✨ Crafting Modern Web Interfaces</h3>
 
 I'm passionate about building fast, modern, and accessible web interfaces using Vue.js and Nuxt. I value clean code, performance, scalability, and elegant UX. My journey is focused on becoming a Full-Stack Developer who builds impactful and user-centric solutions.
