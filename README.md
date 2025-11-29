@@ -24,31 +24,33 @@ I'm passionate about building fast, modern, and accessible web interfaces using 
 
 * A medical services platform with multiple dashboards for doctors, admins, and patients.
 * **Technologies**: Nuxt 3, Tailwind, Firebase
-* <img src="images/shure.jpg" align="center" width="75%"/>
+* <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/17f86348-4275-4c8b-825f-2a9fe2d2f230" />
+
 
 ### ⛴️ [**Marsa AI**](https://marsaai.com)
 
 * AI-powered health assistant platform for mental wellness and user engagement.
 * **Technologies**: Nuxt 3, Vue, SSR, REST APIs
-* <img src="images/marsaai.jpg" align="center" width="75%"/>
+* <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/ccb8455f-5317-406a-83ee-ecaeed19e16b" />
+
 
 ### 💊 [**Arab Therapy**](https://arabtherapy.com/)
 
 * A platform offering therapeutic services across the Arab world.
 * **Technologies**: Vue, Nuxt, Tailwind
-* <img src="images/arabtherapy.jpg" align="center" width="75%"/>
+* <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/bf45c49f-da30-4320-936c-e72b08685b6b" />
+
 
 ### 🛒 [**Al-Araby Store**](http://store-alaraby.pages.dev/)
 
 * A sleek online storefront built with performance and simplicity in mind.
 * **Technologies**: Nuxt, Vite, Pinia
-* <img src="images/alaraby.jpg" align="center" width="75%"/>
-
+* <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/600f9ddc-9ac3-4c79-a5c5-e9a4a6694bb9" />
 ---
 
 ## 📊 **GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh123mos\&show_icons=true\&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh123mos\&show_icons=true\&theme=radical) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh123mos\&layout=compact\&theme=radical)
 
 ---
