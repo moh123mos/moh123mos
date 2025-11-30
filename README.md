@@ -1,4 +1,8 @@
-<h3 align="center">Frontend Developer | Vue & Nuxt Specialist | ✨ Crafting Modern Web Interfaces</h3>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&color=0F8CF7&center=true&vCenter=true&duration=5000&pause=150&width=900&height=70&lines=Muhammed+Mustafa++Amer;Frontend+Developer;Vue+%26+Nuxt+Specialist)](https://git.io/typing-svg)
+  
+</div>
 
 I'm passionate about building fast, modern, and accessible web interfaces using Vue.js and Nuxt. I value clean code, performance, scalability, and elegant UX. My journey is focused on becoming a Full-Stack Developer who builds impactful and user-centric solutions.
 
