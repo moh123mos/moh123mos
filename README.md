@@ -50,8 +50,17 @@ I'm passionate about building fast, modern, and accessible web interfaces using 
 
 ## 📊 **GitHub Stats**
 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh123mos\&show_icons=true\&theme=radical) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moh123mos&bg_color=303030&color=ffffff&line=3dff9b&point=00e682&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=moh123mos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=moh123mos&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=moh123mos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh123mos\&layout=compact\&theme=radical)
+</div>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh123mos\&show_icons=true\&theme=radical) -->
+
 
 ---
 
