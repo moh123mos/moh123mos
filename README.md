@@ -24,31 +24,31 @@ I'm passionate about building fast, modern, and accessible web interfaces using 
 
 ## 🛠️ **Projects**
 
-### 🏥 [**Shure**](http://shureapp.com/)
+### 🏥 [**Shure Medical Platform**](http://shureapp.com/)
 
-* A medical services platform with multiple dashboards for doctors, admins, and patients.
-* **Technologies**: Nuxt 3, Tailwind, Firebase
+* Built a responsive web-based medical platform that streamlines access to healthcare services, enabling users to easily request medical consultations through a fast, reliable, and user-friendly interface.
+* **Technologies**: Nuxt 3, Tailwindcss, Firebase
 * <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/17f86348-4275-4c8b-825f-2a9fe2d2f230" />
 
 
-### ⛴️ [**Marsa AI**](https://marsaai.com)
+### ⛴️ [**Marsaai Seafood Website**](https://marsaai.com)
 
-* AI-powered health assistant platform for mental wellness and user engagement.
-* **Technologies**: Nuxt 3, Vue, SSR, REST APIs
+* Developed a responsive web platform for a seafood restaurant that allows users to explore the menu and make easy table reservations online, focusing on a smooth user experience, clean UI, and fast performance across devices.
+* **Technologies**: Nuxt 3, SSR, REST APIs
 * <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/ccb8455f-5317-406a-83ee-ecaeed19e16b" />
 
 
 ### 💊 [**Arab Therapy**](https://arabtherapy.com/)
 
-* A platform offering therapeutic services across the Arab world.
-* **Technologies**: Vue, Nuxt, Tailwind
+* Developed a secure and responsive web platform for booking online therapy sessions with Arabic-speaking therapists, focusing on user privacy, smooth booking experience, and accessibility for mental health support.
+* **Technologies**: Vue, Bootstrap, PHP Blade
 * <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/bf45c49f-da30-4320-936c-e72b08685b6b" />
 
 
-### 🛒 [**Al-Araby Store**](http://store-alaraby.pages.dev/)
+### 🛒 [**Store Alaraby**](http://store-alaraby.pages.dev/)
 
-* A sleek online storefront built with performance and simplicity in mind.
-* **Technologies**: Nuxt, Vite, Pinia
+* Developed a comprehensive web platform that empowers business owners to manage all aspects of their operations, including customer and sales tracking, installment management, supplier coordination, and financial reporting, with an intuitive and efficient interface.
+* **Technologies**: Nuxt, Tailwindcss, Pinia
 * <img align="center" width="75%" alt="image" src="https://github.com/user-attachments/assets/600f9ddc-9ac3-4c79-a5c5-e9a4a6694bb9" />
 ---
 
