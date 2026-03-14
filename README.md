@@ -80,7 +80,7 @@ I'm passionate about building fast, modern, and accessible web interfaces using 
 
 * 👤 [LinkedIn](https://www.linkedin.com/in/mohammed-mostafa-b72804320/)
 * 🛋️ [Email](mailto:muhammed.mustafa.work@gmail.com)
-* 🔗 [Portfolio](http://muhamed-mustafa.me/hello-there/)
+* 🔗 [Portfolio](https://muhamed-mustafa.dev/)
 ---
 
 > "Great design is not just how it looks, but how it works."
