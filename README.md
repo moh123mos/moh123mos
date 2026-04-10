@@ -61,10 +61,6 @@ I'm passionate about building fast, modern, and accessible web interfaces using 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=moh123mos&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moh123mos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moh123mos\&layout=compact\&theme=radical)
-</div>
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moh123mos\&show_icons=true\&theme=radical) -->
-
 
 ---
 
